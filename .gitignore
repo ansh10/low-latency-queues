@@ -1,0 +1,7 @@
+build/
+*.o
+*.d
+spsc_queue
+.DS_Store
+compile_commands.json
+.cache/
